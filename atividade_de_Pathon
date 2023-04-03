@@ -1,0 +1,65 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jessicaalmeidadeoliveiradede/colab-py/blob/main/atividade_de_Pathon\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "> imposto de reda\n",
+        "1.   salario 2,000\n",
+        "\n",
+        "2. inss   \n",
+        "*   12,0000->8%\n",
+        "*   18,0000>9%\n",
+        " *   conta->18%\n",
+        "> IRRF\n",
+        "*   12.000->8,00\n",
+        "*  18,000->9,00\n",
+        "\n",
+        "\n",
+        "> conta->18,00\n",
+        "\n",
+        "\n",
+        "\n",
+        "> resultado do salariio INSS\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "c0pdXE8pL5w0"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
